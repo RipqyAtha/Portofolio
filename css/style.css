@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    margin-top: 50px;
+    color: black;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
+.content {
+    padding: 40px 0;
+}
+
+.button {
+    display: center;
+}
+
+.portfolio bg-light {
+    padding: 40px 0;
+}
+
